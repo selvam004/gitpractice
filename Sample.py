@@ -10,3 +10,5 @@ class Sample:
             return "Division by zero is not allowed"
         else:
             return a/b
+    def remainder(self,a,b):
+        return a%b
